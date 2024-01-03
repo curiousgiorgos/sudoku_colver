@@ -1,6 +1,6 @@
-# sudoku_colver
+# sudoku_linear_programming_solver
 
-## A web-based sudoku solver using the glpk.js libary.
+## A web-based sudoku solver utilizing linear programming through the glpk.js libary.
 
 1. Attaching the "sudoku__board" class to an empty div and calling the setGame() function automatically creates the board.
 2. Calling ResetBoard() resets the board to  a random one from the provided board list
